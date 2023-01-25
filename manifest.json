@@ -3,7 +3,7 @@
     "background_color": "#000000",
     "display": "standalone",
     "start_url": "https://dian.hardi.id/",
-	"prefer_related_applications": false,
+    "prefer_related_applications": false,
     "name": "Dian.hardi.id",
     "short_name": "Dian.hardi.id",
     "description": "Selamat Datang di Dian.hardi.id Web Resmi Portofolio Tatlatsa Hardiansyah Juli Margono, Trainer Software dibidang Management dan Mutu Pendidikan ",
@@ -11,50 +11,50 @@
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJF4KYOiAr6hG905BsWRRsNEd1B1KaCE562jEDyknaJKca2oXZN1XUGvUH-DaJsqySA1JPO1f26CbZMJ1NmLFjsZgOjrbmbNX5ruDH3OC5u1F63TjcmARmH68NH9PnRVxhNAR4jl-gsOT0C66G64Zdq6_ro-SuCBpgFjBoXPGzKItlhWDiI28fseJ/s16000/icon-192x192.png",
             "sizes": "192x192",
-            "type": "image/png"
-			"purpose": "any"
+            "type": "image/png",
+	    "purpose": "any"
         },
 		{
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJF4KYOiAr6hG905BsWRRsNEd1B1KaCE562jEDyknaJKca2oXZN1XUGvUH-DaJsqySA1JPO1f26CbZMJ1NmLFjsZgOjrbmbNX5ruDH3OC5u1F63TjcmARmH68NH9PnRVxhNAR4jl-gsOT0C66G64Zdq6_ro-SuCBpgFjBoXPGzKItlhWDiI28fseJ/s16000/icon-192x192.png",
             "sizes": "192x192",
-            "type": "image/png"
-			"purpose": "maskable"
+            "type": "image/png",
+	    "purpose": "maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7PSjIUqHWxBXnZOCL9btNAFpWKPBcIpMKsJty-zNcWQrIVI_61pzyEK8ST4n9gFPIh4xLbGrItoqvy7NKRtjM3U9iNPzTIHweomz-HlAB_JYiIin1ORlm2jh9K3RqHnbm_ySGTGRySzSotohVw8Psydcsob6s4XLfJq8h1IJloUKBJ9tHHPYQcbu/s16000/icon-256x256.png",
             "sizes": "256x256",
-            "type": "image/png"
-			"purpose": "any"
+            "type": "image/png",
+	    "purpose": "any"
         },
 		{
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7PSjIUqHWxBXnZOCL9btNAFpWKPBcIpMKsJty-zNcWQrIVI_61pzyEK8ST4n9gFPIh4xLbGrItoqvy7NKRtjM3U9iNPzTIHweomz-HlAB_JYiIin1ORlm2jh9K3RqHnbm_ySGTGRySzSotohVw8Psydcsob6s4XLfJq8h1IJloUKBJ9tHHPYQcbu/s16000/icon-256x256.png",
             "sizes": "256x256",
-            "type": "image/png"
-			"purpose": "maskable"
+            "type": "image/png",
+	    "purpose": "maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOJhyIU4fdm-5ZqirJ3aFZ8ejoVEQ1Yh7Cg2EpazZ6Pnh9UAy_lqPfbQPik1nIeivgJR863HU76938LVkQ-oy1J9cBJOqp_tMZRxzUWj5BBGikhyl56bZ0OZ-IUHCT6iIAMY4XmV4AzBsI9vRlbQzWM_Vhe24zeRPMTsHywwlSO1sR726j7cKt_49/s16000/icon-384x384.png",
             "sizes": "384x384",
-            "type": "image/png"
-			"purpose": "any"
+            "type": "image/png",
+	    "purpose": "any"
         },
 		{
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOJhyIU4fdm-5ZqirJ3aFZ8ejoVEQ1Yh7Cg2EpazZ6Pnh9UAy_lqPfbQPik1nIeivgJR863HU76938LVkQ-oy1J9cBJOqp_tMZRxzUWj5BBGikhyl56bZ0OZ-IUHCT6iIAMY4XmV4AzBsI9vRlbQzWM_Vhe24zeRPMTsHywwlSO1sR726j7cKt_49/s16000/icon-384x384.png",
             "sizes": "384x384",
-            "type": "image/png"
-			"purpose": "maskable"
+            "type": "image/png",
+	    "purpose": "maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8klLcg3TbLZon2rVpr0k3Myu2Gz7FSrXbpzBVsE1Z6chtOgz3o0nsmqRGHeEpJKWIMKaenRj_Dm7WzZ2x0c7-vGdpVKiILiLx8zsF0qeuArKikwtDNiez8Mhp4WHhOJ4Ylxd1L46jootA7qHMlU4hZ8GZavhmNJ_pFwpOqPuzDcssI3WvtkbrGiY/s16000/icon-512x512.png",
             "sizes": "512x512",
-            "type": "image/png"
-			"purpose": "any"
+            "type": "image/png",
+	    "purpose": "any"
         },
 		{
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8klLcg3TbLZon2rVpr0k3Myu2Gz7FSrXbpzBVsE1Z6chtOgz3o0nsmqRGHeEpJKWIMKaenRj_Dm7WzZ2x0c7-vGdpVKiILiLx8zsF0qeuArKikwtDNiez8Mhp4WHhOJ4Ylxd1L46jootA7qHMlU4hZ8GZavhmNJ_pFwpOqPuzDcssI3WvtkbrGiY/s16000/icon-512x512.png",
             "sizes": "512x512",
-            "type": "image/png"
-			"purpose": "maskable"
+            "type": "image/png",
+	    "purpose": "maskable"
         }
     ]
 }
